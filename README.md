@@ -1,3 +1,4 @@
+```
 int main() {
     Serializator s;
 
@@ -13,3 +14,4 @@ int main() {
 
     s.deserialize<Person>().print(); // OUTPUT: Bob 20 15.51
 }
+```
